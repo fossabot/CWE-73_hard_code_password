@@ -1,0 +1,1 @@
+# CWE-73_hard_code_password
